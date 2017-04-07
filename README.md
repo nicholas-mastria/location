@@ -1,7 +1,7 @@
 # Obter a localização do usuário e exibir na interface detalhes sobre isso – 80 pontos
 
 ----
-URL de testes - endereço HTTP, suporta browser Firefox
+URL de testes no OpenShift (Cloud)
 ----
 https://nicholas-mastria.rhcloud.com/
 ----
