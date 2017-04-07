@@ -3,7 +3,7 @@
 ----
 URL de testes - endereço HTTP, suporta browser Firefox
 ----
-http://nicholas.exoss.org/location/
+https://nicholas-mastria.rhcloud.com/
 ----
 
 Utilizando javascript obter a localização do visitante, e exibir na interface o endereço completo de onde ele estiver.
