@@ -8,5 +8,5 @@ Em JF, dependendo da conexão, a localização pode “cair” em BH, mas, ignor
 
 - Exibir o mapa com um pin no exato local
 - Calcular a distância deste ponto até a App Machine (-21.7725621,-43.3469667)
-- Criar um repositório para o código com readme bem escrito- 
+- Criar um repositório para o código com readme bem escrito 
 - Documentar em inglês
