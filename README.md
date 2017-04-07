@@ -4,9 +4,9 @@ Utilizando javascript obter a localização do visitante, e exibir na interface 
 
 Em JF, dependendo da conexão, a localização pode “cair” em BH, mas, ignore isso.. apenas use os dados e apresente.
 
-Pontos extras:
+## Pontos extras:
 
-Exibir o mapa com um pin no exato local
-Calcular a distância deste ponto até a App Machine (-21.7725621,-43.3469667)
-Criar um repositório para o código com readme bem escrito
-Documentar em inglês
+- Exibir o mapa com um pin no exato local
+- Calcular a distância deste ponto até a App Machine (-21.7725621,-43.3469667)
+- Criar um repositório para o código com readme bem escrito- 
+- Documentar em inglês
