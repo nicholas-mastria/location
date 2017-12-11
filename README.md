@@ -1,7 +1,7 @@
 # Estudo localizar usuario e apontar um pin com a localização escolhida
 
 ----
-URL de testes no OpenShift (Cloud)
+URL de testes
 ----
 https://nick.mastria.com.br/
 ----
